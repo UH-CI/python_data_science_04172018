@@ -22,9 +22,6 @@ This workshop focuses specifically on the Python skills necessary for data analy
 * Merge, concatenate and filter data from multiple sources.
 * Visualize data using matplotlib
 
-
-The focus will be on data management and analysis for genomics research. We will cover metadata organization, data organization, connecting to and using advanced computing, the command line for sequence quality control and bioinformatics workflows, and R for data analysis and visualization. We will not be teaching any particular bioinformatics tools, but the foundational skills that will allow you to conduct any analysis and analyze the output of a genomics pipeline. By the end of the workshop learners should be able to manage and analyze data more effectively and be able to apply the tools and approaches directly to their ongoing research.
-
 Participants should bring their laptops and plan to participate actively. Laptops will require a browser application for accessing jupyter notebooks resources.
 
 
