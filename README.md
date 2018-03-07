@@ -26,3 +26,5 @@ Participants should bring their laptops and plan to participate actively. Laptop
 
 
 ## Registration:
+
+<button name="button" onclick="https://www.cognitoforms.com/UHBioinformatics/IntroductionToPandasRegistrationFrom">REGISTER HERE</button>
