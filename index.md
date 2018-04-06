@@ -5,7 +5,7 @@
 <center>
 <img src="img/logo_5.png" alt="Drawing" style="height: 100px;"/>
 <img src="img/ci-logo.png" alt="Drawing" style="height: 100px;"/>
-<img src="http://www.hawaii.edu/epscor/wordpress/wp-content/uploads/2016/04/EPSCoR-Logo.placeholder200x65.png" alt="Drawing" style="height: 100px;"/>
+<img src="http://www.hawaii.edu/epscor/wp-content/uploads/2018/03/logo-epscor-and-ikewai.jpg" alt="Drawing" style="height: 100px;"/>
 </center>
 This FREE workshop is sponsored by the Hawai'i Data Science Institue and the University of Hawai'i Information Technology Service Cyberinfrastructure group and Hawai'i EPSCoR.
 
