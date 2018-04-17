@@ -76,4 +76,4 @@ spending.csv
 
 ## Survey
 
-Please fill out the demographic suver <a href="https://goo.gl/forms/fIIzz6a5TL7wc9763">Survey</a>
+Please fill out the demographic <a href="https://goo.gl/forms/fIIzz6a5TL7wc9763">Survey</a>
