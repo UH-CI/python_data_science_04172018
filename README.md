@@ -24,11 +24,6 @@ This workshop focuses specifically on the Python skills necessary for data analy
 
 Participants should bring their laptops and plan to participate actively. Laptops will require a browser application for accessing jupyter notebooks resources.
 
-
-## Registration:
-
-<button name="button" onclick="https://www.cognitoforms.com/UHBioinformatics/IntroductionToPandasRegistrationFrom">REGISTER HERE</button>
-
 ## Workshop Materials
 
 Preliminaries.ipynb
