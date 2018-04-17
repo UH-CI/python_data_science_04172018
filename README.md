@@ -96,6 +96,7 @@ Missing_values.ipynb
 
 Data Files
 <a href="https://github.com/UH-CI/python_data_science_04172018/tree/gh-pages/data">ALL DATA FILES</a>
+
 <a href="https://github.com/UH-CI/python_data_science_04172018/archive/gh-pages.zip">ZIP OF FILES</a> Once unzipped all the files are in the "data" folder
 
 
