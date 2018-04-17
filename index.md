@@ -27,25 +27,25 @@ Participants should bring their laptops and plan to participate actively. Laptop
 ## Workshop Materials
 
 Preliminaries.ipynb
-https://bit.ly/2H5N9Xl
+<a href="https://bit.ly/2H5N9Xl">https://bit.ly/2H5N9Xl</a>
 
 
 Introduction_to_Python.ipynb
-https://bit.ly/2vuWAP1
+<a href="https://bit.ly/2vuWAP1">https://bit.ly/2vuWAP1</a>
 
 Intro_to_pandas.ipynb
-https://bit.ly/2J3Y3xp
+<a href="https://bit.ly/2J3Y3xp">https://bit.ly/2J3Y3xp</a>
 
 
 Plotting_and_visualization.ipynb
-https://bit.ly/2EW4Erk
+<a href="https://bit.ly/2EW4Erk">https://bit.ly/2EW4Erk</a>
 
 
 Exploring_data.ipynb
-https://bit.ly/2J3Y4RZ
+<a href="https://bit.ly/2J3Y4RZ">https://bit.ly/2J3Y4RZ</a>
 
 Missing_values.ipynb
-https://bit.ly/2voIHl6
+<a href="https://bit.ly/2voIHl6">https://bit.ly/2voIHl6</a>
 
 spending.csv
-https://bit.ly/2vm11eJ
+<a href="https://bit.ly/2vm11eJ">https://bit.ly/2vm11eJ</a>
