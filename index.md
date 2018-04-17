@@ -23,6 +23,29 @@ This workshop focuses specifically on the Python skills necessary for data analy
 * Visualize data using matplotlib
 
 Participants should bring their laptops and plan to participate actively. Laptops will require a browser application for accessing jupyter notebooks resources.
+## Required Software Installation
+
+### Installing the Python environment with Anaconda
+Python is a popular language for research computing, and great for general-purpose programming as well. Installing all of its research
+packages individually can be a bit difficult, so we recommend Anaconda, an all-in- one installer. Regardless of how you choose to
+install it, make sure you install Python version 3.6.
+We will extensively use the Jupyter programming environment that runs in a web browser. For this to work you will need a reasonably up-
+to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not).
+
+### Installation Instructions for Windows
+Browse to <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> Download the Python
+installer for Windows Install Python 3.6 using all of the defaults for
+installation except make sure to check “Make Anaconda the default
+Python”
+
+### Installation Instructions for Mac OS X
+Browse to <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> Download the Python 3.6
+installer for OS X Install using all of the defaults for installation
+
+
+
+
+
 
 ## Schedule
 
@@ -71,8 +94,9 @@ Exploring_data.ipynb
 Missing_values.ipynb
 <a href="https://bit.ly/2voIHl6">https://bit.ly/2voIHl6</a>
 
-spending.csv
-<a href="https://bit.ly/2vm11eJ">https://bit.ly/2vm11eJ</a>
+Data Files
+<a href="https://github.com/UH-CI/python_data_science_04172018/tree/gh-pages/data">ALL DATA FILES</a>
+
 
 ## Survey
 
