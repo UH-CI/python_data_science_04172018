@@ -28,3 +28,29 @@ Participants should bring their laptops and plan to participate actively. Laptop
 ## Registration:
 
 <button name="button" onclick="https://www.cognitoforms.com/UHBioinformatics/IntroductionToPandasRegistrationFrom">REGISTER HERE</button>
+
+## Workshop Materials
+
+Preliminaries.ipynb
+https://bit.ly/2H5N9Xl
+
+
+Introduction_to_Python.ipynb
+https://bit.ly/2vuWAP1
+
+Intro_to_pandas.ipynb
+https://bit.ly/2J3Y3xp
+
+
+Plotting_and_visualization.ipynb
+https://bit.ly/2EW4Erk
+
+
+Exploring_data.ipynb
+https://bit.ly/2J3Y4RZ
+
+Missing_values.ipynb
+https://bit.ly/2voIHl6
+
+spending.csv
+https://bit.ly/2vm11eJ
