@@ -73,3 +73,7 @@ Missing_values.ipynb
 
 spending.csv
 <a href="https://bit.ly/2vm11eJ">https://bit.ly/2vm11eJ</a>
+
+## Survey
+
+Please fill out the demographic suver <a href="https://goo.gl/forms/fIIzz6a5TL7wc9763">Survey</a>
