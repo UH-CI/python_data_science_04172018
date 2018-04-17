@@ -24,6 +24,28 @@ This workshop focuses specifically on the Python skills necessary for data analy
 
 Participants should bring their laptops and plan to participate actively. Laptops will require a browser application for accessing jupyter notebooks resources.
 
+## Schedule
+
+### TUESDAY APRIL 17
+9AM BEGIN WORKSHOP
+10:30AM BREAK
+10:45 RESUME
+NOON LUNCH
+1PM RESUME
+2:30PM BREAK
+2:45 RESUME
+4PM STOP FOR THE DAY
+
+### WEDNESDAY APRIL 18
+9AM BEGIN WORKSHOP
+10:30AM BREAK
+10:45 RESUME
+NOON LUNCH
+1PM RESUME
+2:30PM BREAK
+2:45 RESUME
+4PM STOP FOR THE DAY
+
 ## Workshop Materials
 
 Preliminaries.ipynb
