@@ -24,27 +24,28 @@ This workshop focuses specifically on the Python skills necessary for data analy
 
 Participants should bring their laptops and plan to participate actively. Laptops will require a browser application for accessing jupyter notebooks resources.
 
+## Workshop Materials
 
-## Registration:
+Preliminaries.ipynb
+https://bit.ly/2H5N9Xl
 
-<a href="https://www.cognitoforms.com/UHBioinformatics/IntroductionToPandasRegistrationFrom">REGISTER HERE</a>
+
+Introduction_to_Python.ipynb
+https://bit.ly/2vuWAP1
+
+Intro_to_pandas.ipynb
+https://bit.ly/2J3Y3xp
 
 
-## Required Software Installation
+Plotting_and_visualization.ipynb
+https://bit.ly/2EW4Erk
 
-### Installing the Python environment with Anaconda
-Python is a popular language for research computing, and great for general-purpose programming as well. Installing all of its research
-packages individually can be a bit difficult, so we recommend Anaconda, an all-in- one installer. Regardless of how you choose to
-install it, make sure you install Python version 3.6.
-We will extensively use the Jupyter programming environment that runs in a web browser. For this to work you will need a reasonably up-
-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not).
 
-### Installation Instructions for Windows
-Browse to <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> Download the Python
-installer for Windows Install Python 3.6 using all of the defaults for
-installation except make sure to check “Make Anaconda the default
-Python”
+Exploring_data.ipynb
+https://bit.ly/2J3Y4RZ
 
-### Installation Instructions for Mac OS X
-Browse to <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> Download the Python 3.6
-installer for OS X Install using all of the defaults for installation
+Missing_values.ipynb
+https://bit.ly/2voIHl6
+
+spending.csv
+https://bit.ly/2vm11eJ
