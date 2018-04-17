@@ -5,7 +5,7 @@
 <center>
 <img src="img/logo_5.png" alt="Drawing" style="height: 100px;"/>
 <img src="img/ci-logo.png" alt="Drawing" style="height: 100px;"/>
-<img src="http://www.hawaii.edu/epscor/wordpress/wp-content/uploads/2016/04/EPSCoR-Logo.placeholder200x65.png" alt="Drawing" style="height: 100px;"/>
+<img src="http://www.hawaii.edu/epscor/wp-content/uploads/2018/03/logo-epscor-and-ikewai.jpg" alt="Drawing" style="height: 100px;"/>
 </center>
 This FREE workshop is sponsored by the Hawai'i Data Science Institue and the University of Hawai'i Information Technology Service Cyberinfrastructure group and Hawai'i EPSCoR.
 
@@ -24,5 +24,56 @@ This workshop focuses specifically on the Python skills necessary for data analy
 
 Participants should bring their laptops and plan to participate actively. Laptops will require a browser application for accessing jupyter notebooks resources.
 
+## Schedule
 
-## Registration:
+### TUESDAY APRIL 17
+
+* 9AM BEGIN WORKSHOP
+* 10:30AM BREAK
+* 10:45 RESUME
+* NOON LUNCH
+* 1PM RESUME
+* 2:30PM BREAK
+* 2:45 RESUME
+* 4PM STOP FOR THE DAY
+
+### WEDNESDAY APRIL 18
+
+* 9AM BEGIN WORKSHOP
+* 10:30AM BREAK
+* 10:45 RESUME
+* NOON LUNCH
+* 1PM RESUME
+* 2:30PM BREAK
+* 2:45 RESUME
+* 4PM STOP FOR THE DAY
+
+## Workshop Materials
+
+Preliminaries.ipynb
+<a href="https://bit.ly/2H5N9Xl">https://bit.ly/2H5N9Xl</a>
+
+
+Introduction_to_Python.ipynb
+<a href="https://bit.ly/2vuWAP1">https://bit.ly/2vuWAP1</a>
+
+Intro_to_pandas.ipynb
+<a href="https://bit.ly/2J3Y3xp">https://bit.ly/2J3Y3xp</a>
+
+
+Plotting_and_visualization.ipynb
+<a href="https://bit.ly/2EW4Erk">https://bit.ly/2EW4Erk</a>
+
+
+Exploring_data.ipynb
+<a href="https://bit.ly/2J3Y4RZ">https://bit.ly/2J3Y4RZ</a>
+
+Missing_values.ipynb
+<a href="https://bit.ly/2voIHl6">https://bit.ly/2voIHl6</a>
+
+spending.csv
+<a href="https://bit.ly/2vm11eJ">https://bit.ly/2vm11eJ</a>
+
+## Survey
+
+Please fill out the demographic <a href="https://goo.gl/forms/fIIzz6a5TL7wc9763">Survey</a>
