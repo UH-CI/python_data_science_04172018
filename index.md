@@ -73,6 +73,7 @@ installer for OS X Install using all of the defaults for installation
 
 ## Workshop Materials
 
+### Tuesday
 Preliminaries.ipynb
 <a href="https://bit.ly/2H5N9Xl">https://bit.ly/2H5N9Xl</a>
 
@@ -99,6 +100,17 @@ Data Files
 
 <a href="https://github.com/UH-CI/python_data_science_04172018/archive/gh-pages.zip">ZIP OF FILES</a> Once unzipped all the files are in the "data" folder
 
+### WEDNESDAY
+
+Grouping Dataframes
+<a href="https://bit.ly/2Ha9lE3">https://bit.ly/2Ha9lE3</a>
+
+Merging Joining Data
+<a href="https://bit.ly/2JXCgZN:>https://bit.ly/2JXCgZN</a>
+
+
+Plotting with Seaborn
+<a href="https://bit.ly/2HyqjLC">https://bit.ly/2HyqjLC</a>
 
 ## Survey
 
