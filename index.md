@@ -106,7 +106,7 @@ Grouping Dataframes
 <a href="https://bit.ly/2Ha9lE3">https://bit.ly/2Ha9lE3</a>
 
 Merging Joining Data
-<a href="https://bit.ly/2JXCgZN:>https://bit.ly/2JXCgZN</a>
+<a href="https://bit.ly/2JXCgZN">https://bit.ly/2JXCgZN</a>
 
 
 Plotting with Seaborn
